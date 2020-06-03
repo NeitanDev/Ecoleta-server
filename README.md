@@ -1,9 +1,10 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="#delicinha" src="./uploads/lampadas.svg" width="200px" />
+    <!-- <img alt="Ecoleta" title="#delicinha" src="./uploads/lampadas.svg" width="200px" /> -->
+    # :recycle:
 </h1>
 
 <h4 align="center">
-  🚀 Ecoleta
+  # :recycle: Ecoleta 
 </h4>
 
 <p align="center">
