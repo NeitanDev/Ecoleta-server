@@ -10,6 +10,7 @@ const itemsController = new ItemsController();
 routes.get('/items', itemsController.listItem);
 routes.post('/points', pointsController.create);
 routes.get('/points/:id', pointsController.show);
+routes.get('/points', pointsController.index);
 routes.delete('/points/:id', pointsController.destroy);
 
 export default routes;
