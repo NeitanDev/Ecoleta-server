@@ -1,6 +1,6 @@
-<h1 align="center">
+<h1 align="center" style="font-size: 100px;">
     <!-- <img alt="Ecoleta" title="#delicinha" src="./uploads/lampadas.svg" width="200px" /> -->
-    # :recycle:
+    :recycle:
 </h1>
 
 <h4 align="center">
